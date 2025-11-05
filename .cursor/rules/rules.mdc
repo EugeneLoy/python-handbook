@@ -1,0 +1,11 @@
+---
+description:
+globs:
+alwaysApply: true
+---
+
+All text in .md files is meant for ukrainian school students and should use ukrainian language.
+
+All .md files are written as short articles, explaining some aspect of Python programming language.
+
+Stule and terminology should be consistent across all .md files.
