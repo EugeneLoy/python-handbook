@@ -1,0 +1,10 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - Вивід%20-%20функція%20print.md
+  - Типи%20значень%20-%20рядки,%20цілі%20та%20дійсні%20числа.md
+  - Зміні%20-%20присвоєння%20значень.md
