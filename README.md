@@ -21,6 +21,7 @@
 * [tkinter - cтворення вікна та розміщення віджетів](tkinter%20-%20cтворення%20вікна%20та%20розміщення%20віджетів.md)
 * [tkinter - віджет Label](tkinter%20-%20віджет%20Label.md)
 * [tkinter - віджет Button](tkinter%20-%20віджет%20Button.md)
+* [tkinter - віджет Entry](tkinter%20-%20віджет%20Entry.md)
 
 # Інше
 
