@@ -22,6 +22,7 @@
 * [tkinter - віджет Label](tkinter%20-%20віджет%20Label.md)
 * [tkinter - віджет Button](tkinter%20-%20віджет%20Button.md)
 * [tkinter - віджет Entry](tkinter%20-%20віджет%20Entry.md)
+* [tkinter - віджет Radiobutton](tkinter%20-%20віджет%20Radiobutton.md)
 
 # Інше
 
