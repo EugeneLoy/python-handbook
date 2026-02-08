@@ -11,7 +11,18 @@
   table tr:last-child td {
     border-bottom: none;
   }
+
+  .container > h2:empty, #downloads {
+    display: none;
+  }
+
+  @media print {
+    header {
+      display: none !important;
+    }
+  }
 </style>
+
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     document.querySelectorAll('a[href$=".md"]').forEach(function(link) {
@@ -19,6 +30,7 @@
     });
   });
 </script>
+
 <script type="module">
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
   mermaid.initialize({startOnLoad:true,theme:'dark'})
