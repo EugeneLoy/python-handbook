@@ -1,5 +1,5 @@
 # Для виконання потрібно знати про:
-# * <a href="https://tinyurl.com/y8crjrnk" target="_blank">Списки</a>
+# * [Списки](https://tinyurl.com/y8crjrnk)
 #
 # Додайте код у місцях, що відмічено міткою (❗).
 
