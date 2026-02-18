@@ -10,7 +10,7 @@
 # що вона реагує на різні значення.
 # 
 # Для виконання потрібно знати про:
-# https://tinyurl.com/y2nbx44k
+# https://tinyurl.com/ycypwuze
 
 print("Введіть день тижня (1 - пн, 2 - вт, ...):")
 day = int(input())

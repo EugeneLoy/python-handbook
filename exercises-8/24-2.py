@@ -7,7 +7,7 @@
 # що вона реагує на різні значення.
 # 
 # Для виконання потрібно знати про:
-# https://tinyurl.com/y2nbx44k
+# https://tinyurl.com/ycypwuze
 
 print("Введіть вік:")
 age = int(input())
