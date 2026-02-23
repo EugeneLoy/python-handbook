@@ -40,7 +40,7 @@ In flow diagrams combine `input()` and relevant `print()` command (with prompt) 
 
 `exercises` folder contains coding exercises.
 
-Every line of coding exercise code should be 40 characters or less (comments can exceed this line-length limit).
+Every line of code in coding exercise with exception of code comments should be 40 characters or less. Code comments in coding exercise should not be limited to 40 characters or less and can exceed 40 characters.
 
 Every coding exercise should end with 5 empty lines.
 
@@ -57,3 +57,5 @@ When using tkiner in examples:
 Use simple quotes (`"`) in article text instead of fancy ones like `“` and `”`.
 
 Do not use em dash - use "-" instead.
+
+When `❗` is used in coding exercise to denote place in code where student should write code to complete task and there is more than one such place in exercise, it sould be followed by ` X.` where `X` is the number of the task.
