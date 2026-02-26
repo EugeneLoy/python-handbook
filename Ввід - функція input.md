@@ -121,3 +121,5 @@ flowchart LR
 | Зчитування рядка (`str`)              | `name = input()`                        |
 | Зчитування цілого числа (`int`)       | `age = int(input())`                    |
 | Зчитування дійсного числа (`float`)   | `length = float(input())`               |
+
+<!-- TODO use term "введення"/"виведення" -->
